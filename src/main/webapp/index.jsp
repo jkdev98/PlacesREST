@@ -1,11 +1,12 @@
 <html>
 <body>
 
-<h3>Spring CRM REST Demo</h3>
+<h3>REST</h3>
 
 <hr>
 
-<a href="${pageContext.request.contextPath}/api/places">Get All Customers</a>
+<a href="${pageContext.request.contextPath}/api/places">Get All Places</a>
+
 
 </body>
 </html>
